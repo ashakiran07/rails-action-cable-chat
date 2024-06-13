@@ -1,3 +1,2 @@
 # rails-action-cable-chat
-Build a realtime Chat App in Rails
-Use action cable
+Building a realtime Chat App in Rails using action cable.
